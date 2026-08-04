@@ -26,5 +26,5 @@
     background-color: #a1a1a1;
 }
 .radio1 input :checked ~ .radios{
-    background-color: #2;
+    background-color: #2D846E;
 }
