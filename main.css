@@ -23,13 +23,13 @@
     background-color: #ddd;
     border-radius: 50%;
 }
-.radio1:hover input ~ .radios{
+.radio1:hover input ~.radios{
     background-color: #a1a1a1;
 }
-.radio1 input :checked ~ .radios{
+.radio1 input:checked ~.radios{
     background-color: #2D846E;
 }
-.radios::after{
+.radios:after{
     content: "";
     top: 8px;
     left: 8px;
@@ -40,6 +40,6 @@
     display: none;
     position: absolute;
 }
-.radio1 input :checked ~.radios:after{
+.radio1 input:checked ~.radios:after{
     display: block;
 }
