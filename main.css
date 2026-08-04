@@ -23,7 +23,7 @@
     background-color: #ddd;
     border-radius: 50%;
 }
-.radios:hover{
+.radio1:hover input ~ .radios{
     background-color: #a1a1a1;
 }
 .radio1 input :checked.radios{
