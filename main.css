@@ -43,3 +43,10 @@
 .radio1 input:checked ~.radios:after{
     display: block;
 }
+
+.radio1{
+    position: relative;
+    display: block;
+    margin-left: 35px;
+    
+}
