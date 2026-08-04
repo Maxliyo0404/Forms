@@ -83,3 +83,6 @@
     position: absolute;
     display: none;
 }
+.radio1 input:checked ~.radios::after{
+    display: block;
+}
