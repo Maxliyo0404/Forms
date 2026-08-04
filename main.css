@@ -55,5 +55,11 @@
 .radio1 input{
     position: absolute;
     opacity: 0;
-    
+    cursor: pointer;
+}
+.radios{
+    top: 8px;
+    left: 8px;
+    width: 8px;
+    height: 8px;
 }
