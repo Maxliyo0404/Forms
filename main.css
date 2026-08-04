@@ -3,4 +3,9 @@
 }
 .radio1{
     display: block;
+    position: relative;
+    padding-left: 36px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 24px;
 }
