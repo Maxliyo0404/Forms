@@ -74,5 +74,6 @@
     left: 8px;
     width: 8px;
     height: 8px;
-    
+    background: white;
+    border-radius: 50px;
 }
