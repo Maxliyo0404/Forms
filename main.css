@@ -1,20 +1,7 @@
 .container{
     padding: 30px;
 }
-
-/* .radios:after{
-    content: "";
-    top: 8px;
-    left: 8px;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: white;
-    display: none;
-    position: absolute;
-}
-.radio1 input:checked ~.radios:after{
-    display: block;.radio1{
+/* .radio1{
     display: block;
     position: relative;
     padding-left: 36px;
@@ -42,6 +29,19 @@
 .radio1 input:checked ~.radios{
     background-color: #2D846E;
 }
+.radios:after{
+    content: "";
+    top: 8px;
+    left: 8px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: white;
+    display: none;
+    position: absolute;
+}
+.radio1 input:checked ~.radios:after{
+    display: block;
 } */
 
 .radio1{
@@ -49,4 +49,6 @@
     display: block;
     padding-left: 35px;
     margin-bottom: 10px;
+    font-size: 25px;
+    cursor: pointer;
 }
