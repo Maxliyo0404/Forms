@@ -87,11 +87,12 @@ h2{
 }
 .spanCheck::after{
     content: "";
+    position: absolute;
     left: 8px;
     top: 4px;
     width: 5px;
     height: 10px;
     border: solid white;
-    border: 0 3px 3px 0;
+    border-width: 0 3px 3px 0;
     transform: rotate(45deg);
 }
