@@ -125,3 +125,6 @@ h2{
   .checkbox1 :hover input ~.spanCheck{
     background-color: #ccc;
   }
+  .checkbox1 input:checked ~ .spanCheck{
+    background-color: #2D846E;
+  }
