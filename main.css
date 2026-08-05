@@ -100,3 +100,7 @@ h2{
 .checkbox1 input:checked ~.spanCheck::after{
     display: block;
 }
+
+.checkbox1{
+    position: relative;
+}
