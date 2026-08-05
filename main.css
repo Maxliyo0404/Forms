@@ -114,11 +114,14 @@ h2{
     opacity: 0;
     cursor: pointer;
   }
-  .panCheck{
+  .spanCheck{
     position: absolute;
     top: 0;
     left: 0;
     width: 24px;
     height: 24px;
     background: #ddd;
+  }
+  .checkbox1 :hover input ~.spanCheck{
+    background-color: #ccc;
   }
