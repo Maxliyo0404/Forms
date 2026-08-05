@@ -141,5 +141,5 @@ h2{
     display: none;
   }
   .checkbox1 input:checked ~ .spanCheck::after{
-    d
+    display: block;
   }
