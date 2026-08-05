@@ -1,49 +1,12 @@
 .container{
     padding: 30px;
 }
-/* .radio1{
-    display: block;
-    position: relative;
-    padding-left: 36px;
-    margin-bottom: 10px;
-    cursor: pointer;
-    font-size: 24px;
+h1{
+   
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 20px;
 }
-.radio1 input{
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
-}
-.radios{
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 24px;
-    width: 24px;
-    background-color: #ddd;
-    border-radius: 50%;
-}
-.radio1:hover input ~.radios{
-    background-color: #a1a1a1;
-}
-.radio1 input:checked ~.radios{
-    background-color: #2D846E;
-}
-.radios:after{
-    content: "";
-    top: 8px;
-    left: 8px;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: white;
-    display: none;
-    position: absolute;
-}
-.radio1 input:checked ~.radios:after{
-    display: block;
-} */
-
 .radio1{
     position: relative;
     display: block;
