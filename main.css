@@ -109,3 +109,8 @@ h2{
     cursor: pointer;
     font-size: 24px;
 }
+  .checkbox1 input{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
