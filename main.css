@@ -85,3 +85,6 @@ h2{
 .checkbox1 input:checked ~ .spanCheck{
     background-color: #2D846E;
 }
+.spanCheck::after{
+    content: "";
+}
