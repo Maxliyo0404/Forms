@@ -91,5 +91,6 @@ h2{
     top: 4px;
     width: 5px;
     height: 10px;
-    
+    border: solid white;
+    border: 0 3px 3px 0;
 }
