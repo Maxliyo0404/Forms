@@ -80,5 +80,5 @@ h2{
     background-color: #ddd;
 }
 .checkbox1:hover input ~.spanCheck{
-    background-color: #2D846E;
+    background-color: #ccc;
 }
