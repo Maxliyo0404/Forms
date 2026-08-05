@@ -70,4 +70,8 @@ h2{
     opacity: 0;
     cursor: pointer;
 }
-.spanCheck
+.spanCheck{
+    position: absolute;
+    top: 0;
+    left: ;
+}
