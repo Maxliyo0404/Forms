@@ -97,4 +97,6 @@ h2{
     transform: rotate(45deg);
     display: none;
 }
-.checkbox1 input:checked ~.spanCheck::after
+.checkbox1 input:checked ~.spanCheck::after{
+    display: block;
+}
