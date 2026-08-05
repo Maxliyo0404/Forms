@@ -87,4 +87,9 @@ h2{
 }
 .spanCheck::after{
     content: "";
+    left: 8px;
+    top: 4px;
+    width: 5px;
+    height: 10px;
+    
 }
